@@ -1,5 +1,5 @@
 ## Configure Catapult Rest Server Host
-## Add DATADOG integration
+
 Search `location.hostname` in `catapult-chain-app.js` and replace your catapult rest server host.
 
 ### you need to start it in some webserver:
